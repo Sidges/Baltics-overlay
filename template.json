@@ -3,7 +3,7 @@
   "templates": [
     {
       "name": "Baltics",
-      "sources": [ in image style={{ position:'absolute'}}
+      "sources": [
         "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/assets/moreattributes.png"
       ],
       "x": 372,
