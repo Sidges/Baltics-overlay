@@ -1,13 +1,29 @@
 {
-  "contact": "https://discord.gg/YAuGqDxG8P",
+  "contact": "https://discord.gg/8rfjsmXJZn",
   "templates": [
     {
-      "name": "Baltics",
+      "name": "Baltics Stage 1",
       "sources": [
-        "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/assets/moreattributes.png"
+        "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/Assets/Stage1.png"
       ],
-      "x": 372,
-      "y": 628
+      "x": 399,
+      "y": 909
+    },
+    {
+      "name": "Baltics Stage 2",
+      "sources": [
+        "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/Assets/Stage2.png"
+      ],
+      "x": 399,
+      "y": 909
+    },
+    {
+      "name": "Baltics Stage 3",
+      "sources": [
+        "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/Assets/Stage3.png"
+      ],
+      "x": 399,
+      "y": 909
     }
   ],
   "whitelist": [],
