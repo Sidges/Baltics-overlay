@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/8rfjsmXJZn",
+  "templates": [
+    {
+      "name": "Baltics Stage 1",
+      "sources": [
+        "https://raw.githubusercontent.com/Sidges/Baltics-overlay/main/Assets/Stage3.png"
+      ],
+      "x": 399,
+      "y": 909
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
